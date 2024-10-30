@@ -1,0 +1,1452 @@
+{
+ "number": {
+  "label": {
+   "label1": [
+    "images/label-number.png"
+   ]
+  },
+  "level1": {
+   "voice": [
+    "sound/soal_number/lvl11.MP3",
+    "sound/soal_number/lvl12.MP3",
+    "sound/soal_number/lvl13.MP3"
+   ],
+   "status": [
+    "open"
+   ],
+   "tombol": [
+    "images/level/level13.png"
+   ],
+   "soal": [
+    "images/soal-number/5.png",
+    "images/soal-number/3.png",
+    "images/soal-number/8.png"
+   ],
+   "pilgan1": [
+    "images/quis-pilgan/fivety.png",
+    "images/quis-pilgan/fifteen.png",
+    "images/quis-pilgan/five.png"
+   ],
+   "pilgan2": [
+    "images/quis-pilgan/three.png",
+    "images/quis-pilgan/six.png",
+    "images/quis-pilgan/nine.png"
+   ],
+   "pilgan3": [
+    "images/quis-pilgan/four.png",
+    "images/quis-pilgan/two.png",
+    "images/quis-pilgan/eight.png"
+   ],
+   "jawaban": [
+    "images/quis-pilgan/five.png",
+    "images/quis-pilgan/three.png",
+    "images/quis-pilgan/eight.png"
+   ],
+   "title": [
+    "number level 1"
+   ],
+   "poin": [
+    300
+   ],
+   "open": [
+    "level2"
+   ]
+  },
+  "level2": {
+   "voice": [
+    "sound/soal_number/lvl21.MP3",
+    "sound/soal_number/lvl22.MP3",
+    "sound/soal_number/lvl23.MP3"
+   ],
+   "status": [
+    "open"
+   ],
+   "tombol": [
+    "images/level/level22.png"
+   ],
+   "soal": [
+    "images/soal-number/4.png",
+    "images/soal-number/7.png",
+    "images/soal-number/15.png"
+   ],
+   "pilgan1": [
+    "images/quis-pilgan/four.png",
+    "images/quis-pilgan/one.png",
+    "images/quis-pilgan/five.png"
+   ],
+   "pilgan2": [
+    "images/quis-pilgan/four.png",
+    "images/quis-pilgan/seven.png",
+    "images/quis-pilgan/five.png"
+   ],
+   "pilgan3": [
+    "images/quis-pilgan/fifteen.png",
+    "images/quis-pilgan/eleven.png",
+    "images/quis-pilgan/four.png"
+   ],
+   "jawaban": [
+    "images/quis-pilgan/four.png",
+    "images/quis-pilgan/seven.png",
+    "images/quis-pilgan/fifteen.png"
+   ],
+   "title": [
+    "animal level 1"
+   ],
+   "poin": [
+    200
+   ],
+   "open": [
+    "level3"
+   ]
+  },
+  "level3": {
+   "voice": [
+    "sound/soal_number/lvl31.MP3",
+    "sound/soal_number/lvl32.MP3",
+    "sound/soal_number/lvl33.MP3"
+   ],
+   "status": [
+    "open"
+   ],
+   "tombol": [
+    "images/level/level30.png"
+   ],
+   "soal": [
+    "images/soal-number/11.png",
+    "images/soal-number/17.png",
+    "images/soal-number/20.png"
+   ],
+   "pilgan1": [
+    "images/quis-pilgan/twelve.png",
+    "images/quis-pilgan/eleven.png",
+    "images/quis-pilgan/five.png"
+   ],
+   "pilgan2": [
+    "images/quis-pilgan/seventeen.png",
+    "images/quis-pilgan/fourteen.png",
+    "images/quis-pilgan/ten.png"
+   ],
+   "pilgan3": [
+    "images/quis-pilgan/twenty.png",
+    "images/quis-pilgan/thirteen.png",
+    "images/quis-pilgan/seven.png"
+   ],
+   "jawaban": [
+    "images/quis-pilgan/eleven.png",
+    "images/quis-pilgan/seventeen.png",
+    "images/quis-pilgan/twenty.png"
+   ],
+   "title": [
+    "number level 3"
+   ],
+   "poin": [
+    0
+   ],
+   "open": [
+    "level4"
+   ]
+  },
+  "level4": {
+   "voice": [
+    "sound/soal_number/lvl41.MP3",
+    "sound/soal_number/lvl42.MP3",
+    "sound/soal_number/lvl43.MP3"
+   ],
+   "status": [
+    "lock"
+   ],
+   "tombol": [
+    "images/level/level4L.png"
+   ],
+   "soal": [
+    "images/soal-number/9.png",
+    "images/soal-number/1.png",
+    "images/soal-number/12.png"
+   ],
+   "pilgan1": [
+    "images/quis-pilgan/nineteen.png",
+    "images/quis-pilgan/nine.png",
+    "images/quis-pilgan/one.png"
+   ],
+   "pilgan2": [
+    "images/quis-pilgan/one.png",
+    "images/quis-pilgan/three.png",
+    "images/quis-pilgan/six.png"
+   ],
+   "pilgan3": [
+    "images/quis-pilgan/eleven.png",
+    "images/quis-pilgan/twelve.png",
+    "images/quis-pilgan/fourteen.png"
+   ],
+   "jawaban": [
+    "images/quis-pilgan/nine.png",
+    "images/quis-pilgan/one.png",
+    "images/quis-pilgan/twelve.png"
+   ],
+   "title": [
+    "number level 4"
+   ],
+   "poin": [
+    0
+   ],
+   "open": [
+    "level5"
+   ]
+  },
+  "level5": {
+   "voice": [
+    "sound/soal_number/lvl51.MP3",
+    "sound/soal_number/lvl52.MP3",
+    "sound/soal_number/lvl53.MP3"
+   ],
+   "status": [
+    "lock"
+   ],
+   "tombol": [
+    "images/level/level5L.png"
+   ],
+   "soal": [
+    "images/soal-number/2.png",
+    "images/soal-number/10.png",
+    "images/soal-number/17.png"
+   ],
+   "pilgan1": [
+    "images/quis-pilgan/two.png",
+    "images/quis-pilgan/five.png",
+    "images/quis-pilgan/eight.png"
+   ],
+   "pilgan2": [
+    "images/quis-pilgan/ten.png",
+    "images/quis-pilgan/twelve.png",
+    "images/quis-pilgan/fifteen.png"
+   ],
+   "pilgan3": [
+    "images/quis-pilgan/fifteen.png",
+    "images/quis-pilgan/seventeen.png",
+    "images/quis-pilgan/nineteen.png"
+   ],
+   "jawaban": [
+    "images/quis-pilgan/two.png",
+    "images/quis-pilgan/ten.png",
+    "images/quis-pilgan/seventeen.png"
+   ],
+   "title": [
+    "number level 5"
+   ],
+   "poin": [
+    0
+   ],
+   "open": [
+    "level6"
+   ]
+  },
+  "level6": {
+   "voice": [
+    "sound/soal_number/lvl61.MP3",
+    "sound/soal_number/lvl62.MP3",
+    "sound/soal_number/lvl63.MP3"
+   ],
+   "status": [
+    "lock"
+   ],
+   "tombol": [
+    "images/level/level6L.png"
+   ],
+   "soal": [
+    "images/soal-number/13.png",
+    "images/soal-number/16.png",
+    "images/soal-number/19.png"
+   ],
+   "pilgan1": [
+    "images/quis-pilgan/eleven.png",
+    "images/quis-pilgan/thirteen.png",
+    "images/quis-pilgan/fifteen.png"
+   ],
+   "pilgan2": [
+    "images/quis-pilgan/fourteen.png",
+    "images/quis-pilgan/sixteen.png",
+    "images/quis-pilgan/eighteen.png"
+   ],
+   "pilgan3": [
+    "images/quis-pilgan/seventeen.png",
+    "images/quis-pilgan/twenty one.png",
+    "images/quis-pilgan/nineteen.png"
+   ],
+   "jawaban": [
+    "images/quis-pilgan/thirteen.png",
+    "images/quis-pilgan/sixteen.png",
+    "images/quis-pilgan/nineteen.png"
+   ],
+   "title": [
+    "number level 6"
+   ],
+   "poin": [
+    0
+   ],
+   "open": [
+    "level7"
+   ]
+  },
+  "level7": {
+   "voice": [
+    "sound/soal_number/lvl71.MP3",
+    "sound/soal_number/lvl72.MP3",
+    "sound/soal_number/lvl73.MP3"
+   ],
+   "status": [
+    "lock"
+   ],
+   "tombol": [
+    "images/level/level7L.png"
+   ],
+   "soal": [
+    "images/soal-number/22.png",
+    "images/soal-number/24.png",
+    "images/soal-number/21.png"
+   ],
+   "pilgan1": [
+    "images/quis-pilgan/twenty two.png",
+    "images/quis-pilgan/twenty three.png",
+    "images/quis-pilgan/twenty six.png"
+   ],
+   "pilgan2": [
+    "images/quis-pilgan/twenty two.png",
+    "images/quis-pilgan/twenty four.png",
+    "images/quis-pilgan/twenty six.png"
+   ],
+   "pilgan3": [
+    "images/quis-pilgan/nineteen.png",
+    "images/quis-pilgan/twenty seven.png",
+    "images/quis-pilgan/twenty one.png"
+   ],
+   "jawaban": [
+    "images/quis-pilgan/twenty two.png",
+    "images/quis-pilgan/twenty four.png",
+    "images/quis-pilgan/twenty one.png"
+   ],
+   "title": [
+    "number level 7"
+   ],
+   "poin": [
+    0
+   ],
+   "open": [
+    "level8"
+   ]
+  },
+  "level8": {
+   "voice": [
+    "sound/soal_number/lvl81.MP3",
+    "sound/soal_number/lvl82.MP3",
+    "sound/soal_number/lvl83.MP3"
+   ],
+   "status": [
+    "lock"
+   ],
+   "tombol": [
+    "images/level/level8L.png"
+   ],
+   "soal": [
+    "images/soal-number/23.png",
+    "images/soal-number/25.png",
+    "images/soal-number/26.png"
+   ],
+   "pilgan1": [
+    "images/quis-pilgan/twenty one.png",
+    "images/quis-pilgan/twenty three.png",
+    "images/quis-pilgan/twenty five.png"
+   ],
+   "pilgan2": [
+    "images/quis-pilgan/twenty three.png",
+    "images/quis-pilgan/twenty five.png",
+    "images/quis-pilgan/twenty seven.png"
+   ],
+   "pilgan3": [
+    "images/quis-pilgan/twenty four.png",
+    "images/quis-pilgan/twenty six.png",
+    "images/quis-pilgan/twenty eight.png"
+   ],
+   "jawaban": [
+    "images/quis-pilgan/twenty three.png",
+    "images/quis-pilgan/twenty five.png",
+    "images/quis-pilgan/twenty six.png"
+   ],
+   "title": [
+    "number level 8"
+   ],
+   "poin": [
+    0
+   ],
+   "open": [
+    "level9"
+   ]
+  },
+  "level9": {
+   "voice": [
+    "sound/soal_number/lvl91.MP3",
+    "sound/soal_number/lvl92.MP3",
+    "sound/soal_number/lvl93.MP3"
+   ],
+   "status": [
+    "lock"
+   ],
+   "tombol": [
+    "images/level/level9L.png"
+   ],
+   "soal": [
+    "images/soal-number/28.png",
+    "images/soal-number/27.png",
+    "images/soal-number/14.png"
+   ],
+   "pilgan1": [
+    "images/quis-pilgan/twenty four.png",
+    "images/quis-pilgan/twenty six.png",
+    "images/quis-pilgan/twenty eight.png"
+   ],
+   "pilgan2": [
+    "images/quis-pilgan/twenty five.png",
+    "images/quis-pilgan/twenty seven.png",
+    "images/quis-pilgan/twenty nine.png"
+   ],
+   "pilgan3": [
+    "images/quis-pilgan/twelve.png",
+    "images/quis-pilgan/fourteen.png",
+    "images/quis-pilgan/sixteen.png"
+   ],
+   "jawaban": [
+    "images/quis-pilgan/twenty eight.png",
+    "images/quis-pilgan/twenty seven.png",
+    "images/quis-pilgan/fourteen.png"
+   ],
+   "title": [
+    "number level 9"
+   ],
+   "poin": [
+    0
+   ],
+   "open": [
+    "levelA"
+   ]
+  },
+  "levelA": {
+   "voice": [
+    "sound/soal_number/lvl91.MP3",
+    "sound/soal_number/lvl92.MP3",
+    "sound/soal_number/lvl93.MP3"
+   ],
+   "status": [
+    "lock"
+   ],
+   "tombol": [
+    "images/level/level9L.png"
+   ],
+   "soal": [
+    "images/soal-number/28.png",
+    "images/soal-number/27.png",
+    "images/soal-number/14.png"
+   ],
+   "pilgan1": [
+    "images/quis-pilgan/twenty two.png",
+    "images/quis-pilgan/twenty six.png",
+    "images/quis-pilgan/twenty eight.png"
+   ],
+   "pilgan2": [
+    "images/quis-pilgan/twenty five.png",
+    "images/quis-pilgan/twenty seven.png",
+    "images/quis-pilgan/twenty nine.png"
+   ],
+   "pilgan3": [
+    "images/quis-pilgan/twelve.png",
+    "images/quis-pilgan/fourteen.png",
+    "images/quis-pilgan/sixteen.png"
+   ],
+   "jawaban": [
+    "images/quis-pilgan/twenty eight.png",
+    "images/quis-pilgan/twenty seven.png",
+    "images/quis-pilgan/fourteen.png"
+   ],
+   "title": [
+    "animal level 1"
+   ],
+   "poin": [
+    0
+   ],
+   "open": [
+    "levelA"
+   ]
+  }
+ },
+ "fruits": {
+  "label": {
+   "label1": [
+    "images/label-fruits.png"
+   ]
+  },
+  "level1": {
+   "voice": [
+    "sound/soal_fruits/lvl11.MP3",
+    "sound/soal_fruits/lvl12.MP3",
+    "sound/soal_fruits/lvl13.MP3"
+   ],
+   "status": [
+    "open"
+   ],
+   "tombol": [
+    "images/level/level13.png"
+   ],
+   "soal": [
+    "images/soal-fruits/aple.png",
+    "images/soal-fruits/banana.png",
+    "images/soal-fruits/avocado.png"
+   ],
+   "pilgan1": [
+    "images/quis-pilgan-fruits/apple.png",
+    "images/quis-pilgan-fruits/grapes.png",
+    "images/quis-pilgan-fruits/coconut.png"
+   ],
+   "pilgan2": [
+    "images/quis-pilgan-fruits/coconut.png",
+    "images/quis-pilgan-fruits/grapes.png",
+    "images/quis-pilgan-fruits/banana.png"
+   ],
+   "pilgan3": [
+    "images/quis-pilgan-fruits/apple.png",
+    "images/quis-pilgan-fruits/grapes.png",
+    "images/quis-pilgan-fruits/avocado.png"
+   ],
+   "jawaban": [
+    "images/quis-pilgan-fruits/apple.png",
+    "images/quis-pilgan-fruits/banana.png",
+    "images/quis-pilgan-fruits/avocado.png"
+   ],
+   "title": [
+    "fruits level 1"
+   ],
+   "poin": [
+    300
+   ],
+   "open": [
+    "level2"
+   ]
+  },
+  "level2": {
+   "voice": [
+    "sound/soal_fruits/lvl21.MP3",
+    "sound/soal_fruits/lvl12.MP3",
+    "sound/soal_fruits/lvl23.MP3"
+   ],
+   "status": [
+    "open"
+   ],
+   "tombol": [
+    "images/level/level23.png"
+   ],
+   "soal": [
+    "images/soal-fruits/strawberry.png",
+    "images/soal-fruits/blueberry.png",
+    "images/soal-fruits/pear.png"
+   ],
+   "pilgan1": [
+    "images/quis-pilgan-fruits/avocado.png",
+    "images/quis-pilgan-fruits/guava.png",
+    "images/quis-pilgan-fruits/strawberry.png"
+   ],
+   "pilgan2": [
+    "images/quis-pilgan-fruits/strawberry.png",
+    "images/quis-pilgan-fruits/blueberry.png",
+    "images/quis-pilgan-fruits/orange.png"
+   ],
+   "pilgan3": [
+    "images/quis-pilgan-fruits/cherry.png",
+    "images/quis-pilgan-fruits/papaya.png",
+    "images/quis-pilgan-fruits/pear.png"
+   ],
+   "jawaban": [
+    "images/quis-pilgan-fruits/strawberry.png",
+    "images/quis-pilgan-fruits/blueberry.png",
+    "images/quis-pilgan-fruits/pear.png"
+   ],
+   "title": [
+    "fruits level 2"
+   ],
+   "poin": [
+    300
+   ],
+   "open": [
+    "level3"
+   ]
+  },
+  "level3": {
+   "voice": [
+    "sound/soal_fruits/lvl31.MP3",
+    "sound/soal_fruits/lvl32.MP3",
+    "sound/soal_fruits/lvl33.MP3"
+   ],
+   "status": [
+    "open"
+   ],
+   "tombol": [
+    "images/level/level33.png"
+   ],
+   "soal": [
+    "images/soal-fruits/water melon.png",
+    "images/soal-fruits/melon.png",
+    "images/soal-fruits/mango.png"
+   ],
+   "pilgan1": [
+    "images/quis-pilgan-fruits/pineapple.png",
+    "images/quis-pilgan-fruits/avocado.png",
+    "images/quis-pilgan-fruits/water melon.png"
+   ],
+   "pilgan2": [
+    "images/quis-pilgan-fruits/water melon.png",
+    "images/quis-pilgan-fruits/melon.png",
+    "images/quis-pilgan-fruits/coconut.png"
+   ],
+   "pilgan3": [
+    "images/quis-pilgan-fruits/strawberry.png",
+    "images/quis-pilgan-fruits/apple.png",
+    "images/quis-pilgan-fruits/manggo.png"
+   ],
+   "jawaban": [
+    "images/quis-pilgan-fruits/water melon.png",
+    "images/quis-pilgan-fruits/melon.png",
+    "images/quis-pilgan-fruits/manggo.png"
+   ],
+   "title": [
+    "fruits level 3"
+   ],
+   "poin": [
+    300
+   ],
+   "open": [
+    "level4"
+   ]
+  },
+  "level4": {
+   "voice": [
+    "sound/soal_fruits/lvl41.MP3",
+    "sound/soal_fruits/lvl42.MP3",
+    "sound/soal_fruits/lvl43.MP3"
+   ],
+   "status": [
+    "open"
+   ],
+   "tombol": [
+    "images/level/level40.png"
+   ],
+   "soal": [
+    "images/soal-fruits/pineaple.png",
+    "images/soal-fruits/coconut.png",
+    "images/soal-fruits/grapes.png"
+   ],
+   "pilgan1": [
+    "images/quis-pilgan-fruits/apple.png",
+    "images/quis-pilgan-fruits/pineapple.png",
+    "images/quis-pilgan-fruits/coconut.png"
+   ],
+   "pilgan2": [
+    "images/quis-pilgan-fruits/dragon fruit.png",
+    "images/quis-pilgan-fruits/durian.png",
+    "images/quis-pilgan-fruits/coconut.png"
+   ],
+   "pilgan3": [
+    "images/quis-pilgan-fruits/blueberry.png",
+    "images/quis-pilgan-fruits/grapes.png",
+    "images/quis-pilgan-fruits/strawberry.png"
+   ],
+   "jawaban": [
+    "images/quis-pilgan-fruits/pineapple.png",
+    "images/quis-pilgan-fruits/coconut.png",
+    "images/quis-pilgan-fruits/grapes.png"
+   ],
+   "title": [
+    "fruits level 4"
+   ],
+   "poin": [
+    0
+   ],
+   "open": [
+    "level5"
+   ]
+  },
+  "level5": {
+   "voice": [
+    "sound/soal_fruits/lvl51.MP3",
+    "sound/soal_fruits/lvl52.MP3",
+    "sound/soal_fruits/lvl53.MP3"
+   ],
+   "status": [
+    "lock"
+   ],
+   "tombol": [
+    "images/level/level5L.png"
+   ],
+   "soal": [
+    "images/soal-fruits/lemon.png",
+    "images/soal-fruits/durian.png",
+    "images/soal-fruits/snake fruit.png"
+   ],
+   "pilgan1": [
+    "images/quis-pilgan-fruits/lime.png",
+    "images/quis-pilgan-fruits/orange.png",
+    "images/quis-pilgan-fruits/lemon.png"
+   ],
+   "pilgan2": [
+    "images/quis-pilgan-fruits/manggo.png",
+    "images/quis-pilgan-fruits/durian.png",
+    "images/quis-pilgan-fruits/coconut.png"
+   ],
+   "pilgan3": [
+    "images/quis-pilgan-fruits/snake fruit.png",
+    "images/quis-pilgan-fruits/orange.png",
+    "images/quis-pilgan-fruits/coconut.png"
+   ],
+   "jawaban": [
+    "images/quis-pilgan-fruits/lemon.png",
+    "images/quis-pilgan-fruits/durian.png",
+    "images/quis-pilgan-fruits/snake fruit.png"
+   ],
+   "title": [
+    "fruits level 5"
+   ],
+   "poin": [
+    0
+   ],
+   "open": [
+    "level6"
+   ]
+  },
+  "level6": {
+   "voice": [
+    "sound/soal_fruits/lvl61.MP3",
+    "sound/soal_fruits/lvl62.MP3",
+    "sound/soal_fruits/lvl63.MP3"
+   ],
+   "status": [
+    "lock"
+   ],
+   "tombol": [
+    "images/level/level6L.png"
+   ],
+   "soal": [
+    "images/soal-fruits/papaya.png",
+    "images/soal-fruits/cucumber.png",
+    "images/soal-fruits/dragon fruit.png"
+   ],
+   "pilgan1": [
+    "images/quis-pilgan-fruits/orange.png",
+    "images/quis-pilgan-fruits/durian.png",
+    "images/quis-pilgan-fruits/papaya.png"
+   ],
+   "pilgan2": [
+    "images/quis-pilgan-fruits/cucumber.png",
+    "images/quis-pilgan-fruits/manggo.png",
+    "images/quis-pilgan-fruits/lemon.png"
+   ],
+   "pilgan3": [
+    "images/quis-pilgan-fruits/snake fruit.png",
+    "images/quis-pilgan-fruits/peach.png",
+    "images/quis-pilgan-fruits/dragon fruit.png"
+   ],
+   "jawaban": [
+    "images/quis-pilgan-fruits/papaya.png",
+    "images/quis-pilgan-fruits/cucumber.png",
+    "images/quis-pilgan-fruits/dragon fruit.png"
+   ],
+   "title": [
+    "fruits level 6"
+   ],
+   "poin": [
+    0
+   ],
+   "open": [
+    "level7"
+   ]
+  },
+  "level7": {
+   "voice": [
+    "sound/soal_fruits/lvl71.MP3",
+    "sound/soal_fruits/lvl72.MP3",
+    "sound/soal_fruits/lvl73.MP3"
+   ],
+   "status": [
+    "lock"
+   ],
+   "tombol": [
+    "images/level/level7L.png"
+   ],
+   "soal": [
+    "images/soal-fruits/guava.png",
+    "images/soal-fruits/kiwi.png",
+    "images/soal-fruits/sapodilla.png"
+   ],
+   "pilgan1": [
+    "images/quis-pilgan-fruits/durian.png",
+    "images/quis-pilgan-fruits/guava.png",
+    "images/quis-pilgan-fruits/banana.png"
+   ],
+   "pilgan2": [
+    "images/quis-pilgan-fruits/apple.png",
+    "images/quis-pilgan-fruits/kiwi.png",
+    "images/quis-pilgan-fruits/guava.png"
+   ],
+   "pilgan3": [
+    "images/quis-pilgan-fruits/grapes.png",
+    "images/quis-pilgan-fruits/sapodilla.png",
+    "images/quis-pilgan-fruits/strawberry.png"
+   ],
+   "jawaban": [
+    "images/quis-pilgan-fruits/guava.png",
+    "images/quis-pilgan-fruits/kiwi.png",
+    "images/quis-pilgan-fruits/sapodilla.png"
+   ],
+   "title": [
+    "fruits level 7"
+   ],
+   "poin": [
+    0
+   ],
+   "open": [
+    "level8"
+   ]
+  },
+  "level8": {
+   "voice": [
+    "sound/soal_fruits/lvl81.MP3",
+    "sound/soal_fruits/lvl82.MP3",
+    "sound/soal_fruits/lvl83.MP3"
+   ],
+   "status": [
+    "lock"
+   ],
+   "tombol": [
+    "images/level/level8L.png"
+   ],
+   "soal": [
+    "images/soal-fruits/mangostean.png",
+    "images/soal-fruits/soursop.png",
+    "images/soal-fruits/longan.png"
+   ],
+   "pilgan1": [
+    "images/quis-pilgan-fruits/guava.png",
+    "images/quis-pilgan-fruits/cherry.png",
+    "images/quis-pilgan-fruits/manggosteen.png"
+   ],
+   "pilgan2": [
+    "images/quis-pilgan-fruits/pear.png",
+    "images/quis-pilgan-fruits/manggo.png",
+    "images/quis-pilgan-fruits/soursop.png"
+   ],
+   "pilgan3": [
+    "images/quis-pilgan-fruits/longan.png",
+    "images/quis-pilgan-fruits/grapes.png",
+    "images/quis-pilgan-fruits/strawberry.png"
+   ],
+   "jawaban": [
+    "images/quis-pilgan-fruits/manggosteen.png",
+    "images/quis-pilgan-fruits/soursop.png",
+    "images/quis-pilgan-fruits/longan.png"
+   ],
+   "title": [
+    "fruits level 8"
+   ],
+   "poin": [
+    0
+   ],
+   "open": [
+    "level9"
+   ]
+  },
+  "level9": {
+   "voice": [
+    "sound/soal_fruits/lvl91.MP3",
+    "sound/soal_fruits/lvl92.MP3",
+    "sound/soal_fruits/lvl13.MP3"
+   ],
+   "status": [
+    "lock"
+   ],
+   "tombol": [
+    "images/level/level9L.png"
+   ],
+   "soal": [
+    "images/soal-fruits/hairy fruit.png",
+    "images/soal-fruits/lemon.png",
+    "images/soal-fruits/avocado.png"
+   ],
+   "pilgan1": [
+    "images/quis-pilgan-fruits/hairy fruit.png",
+    "images/quis-pilgan-fruits/dragon fruit.png",
+    "images/quis-pilgan-fruits/blackberry.png"
+   ],
+   "pilgan2": [
+    "images/quis-pilgan-fruits/lemon.png",
+    "images/quis-pilgan-fruits/starfruit.png",
+    "images/quis-pilgan-fruits/cucumber.png"
+   ],
+   "pilgan3": [
+    "images/quis-pilgan-fruits/apple.png",
+    "images/quis-pilgan-fruits/grapes.png",
+    "images/quis-pilgan-fruits/avocado.png"
+   ],
+   "jawaban": [
+    "images/quis-pilgan-fruits/hairy fruit.png",
+    "images/quis-pilgan-fruits/starfruit.png",
+    "images/quis-pilgan-fruits/avocado.png"
+   ],
+   "title": [
+    "fruits level 9"
+   ],
+   "poin": [
+    0
+   ],
+   "open": [
+    "levelA"
+   ]
+  },
+  "levelA": {
+   "voice": [
+    "sound/soal_fruits/lvl11.MP3",
+    "sound/soal_fruits/lvl11.MP3",
+    "sound/soal_fruits/lvl11.MP3"
+   ],
+   "status": [
+    "lock"
+   ],
+   "tombol": [
+    "images/level/level1L.png"
+   ],
+   "soal": [
+    "images/quis-pilgan-fruits/apple.png",
+    "images/quis-pilgan-fruits/apple.png",
+    "images/quis-pilgan-fruits/apple.png"
+   ],
+   "pilgan1": [
+    "images/quis-pilgan-fruits/apple.png",
+    "images/quis-pilgan-fruits/coconut.png",
+    "images/quis-pilgan-fruits/grapes.png"
+   ],
+   "pilgan2": [
+    "images/quis-pilgan-fruits/apple.png",
+    "images/quis-pilgan-fruits/coconut.png",
+    "images/quis-pilgan-fruits/grapes.png"
+   ],
+   "pilgan3": [
+    "images/quis-pilgan-fruits/apple.png",
+    "images/quis-pilgan-fruits/coconut.png",
+    "images/quis-pilgan-fruits/grapes.png"
+   ],
+   "jawaban": [
+    "images/quis-pilgan-fruits/apple.png",
+    "images/quis-pilgan-fruits/apple.png",
+    "images/quis-pilgan-fruits/apple.png"
+   ],
+   "title": [
+    "fruits level 1"
+   ],
+   "poin": [
+    0
+   ],
+   "open": [
+    "level2"
+   ]
+  }
+ },
+ "animal": {
+  "label": {
+   "label1": [
+    "images/label-animal.png"
+   ]
+  },
+  "level1": {
+   "voice": [
+    "sound/soal_animal/lvl11.MP3",
+    "sound/soal_animal/lvl12.MP3",
+    "sound/soal_animal/lvl13.MP3"
+   ],
+   "status": [
+    "open"
+   ],
+   "tombol": [
+    "images/level/level13.png"
+   ],
+   "soal": [
+    "images/soal-animal/cat.png",
+    "images/soal-animal/dog.png",
+    "images/soal-animal/giraffe.png"
+   ],
+   "pilgan1": [
+    "images/quis-pilgan-animal/cat.png",
+    "images/quis-pilgan-animal/fish.png",
+    "images/quis-pilgan-animal/dog.png"
+   ],
+   "pilgan2": [
+    "images/quis-pilgan-animal/snake.png",
+    "images/quis-pilgan-animal/wolf.png",
+    "images/quis-pilgan-animal/dog.png"
+   ],
+   "pilgan3": [
+    "images/quis-pilgan-animal/giraffe.png",
+    "images/quis-pilgan-animal/elephan.png",
+    "images/quis-pilgan-animal/buffalo.png"
+   ],
+   "jawaban": [
+    "images/quis-pilgan-animal/cat.png",
+    "images/quis-pilgan-animal/dog.png",
+    "images/quis-pilgan-animal/giraffe.png"
+   ],
+   "title": [
+    "animal level 1"
+   ],
+   "poin": [
+    210
+   ],
+   "open": [
+    "level2"
+   ]
+  },
+  "level2": {
+   "voice": [
+    "sound/soal_animal/lvl21.MP3",
+    "sound/soal_animal/lvl22.MP3",
+    "sound/soal_animal/lvl23.MP3"
+   ],
+   "status": [
+    "open"
+   ],
+   "tombol": [
+    "images/level/level22.png"
+   ],
+   "soal": [
+    "images/soal-animal/lion.png",
+    "images/soal-animal/tiger.png",
+    "images/soal-animal/elephan.png"
+   ],
+   "pilgan1": [
+    "images/quis-pilgan-animal/lion.png",
+    "images/quis-pilgan-animal/tiger.png",
+    "images/quis-pilgan-animal/cat.png"
+   ],
+   "pilgan2": [
+    "images/quis-pilgan-animal/lion.png",
+    "images/quis-pilgan-animal/zebra.png",
+    "images/quis-pilgan-animal/tiger.png"
+   ],
+   "pilgan3": [
+    "images/quis-pilgan-animal/elephan.png",
+    "images/quis-pilgan-animal/cow.png",
+    "images/quis-pilgan-animal/hippotamus.png"
+   ],
+   "jawaban": [
+    "images/quis-pilgan-animal/lion.png",
+    "images/quis-pilgan-animal/tiger.png",
+    "images/quis-pilgan-animal/elephan.png"
+   ],
+   "title": [
+    "animal level 2"
+   ],
+   "poin": [
+    200
+   ],
+   "open": [
+    "level3"
+   ]
+  },
+  "level3": {
+   "voice": [
+    "sound/soal_animal/lvl31.MP3",
+    "sound/soal_animal/lvl32.MP3",
+    "sound/soal_animal/lvl33.MP3"
+   ],
+   "status": [
+    "open"
+   ],
+   "tombol": [
+    "images/level/level30.png"
+   ],
+   "soal": [
+    "images/soal-animal/rabbit.png",
+    "images/soal-animal/cow.png",
+    "images/soal-animal/hawk.png"
+   ],
+   "pilgan1": [
+    "images/quis-pilgan-animal/rabbit.png",
+    "images/quis-pilgan-animal/goat.png",
+    "images/quis-pilgan-animal/chicken.png"
+   ],
+   "pilgan2": [
+    "images/quis-pilgan-animal/cow.png",
+    "images/quis-pilgan-animal/goat.png",
+    "images/quis-pilgan-animal/buffalo.png"
+   ],
+   "pilgan3": [
+    "images/quis-pilgan-animal/frog.png",
+    "images/quis-pilgan-animal/parrot.png",
+    "images/quis-pilgan-animal/hawk.png"
+   ],
+   "jawaban": [
+    "images/quis-pilgan-animal/rabbit.png",
+    "images/quis-pilgan-animal/cow.png",
+    "images/quis-pilgan-animal/hawk.png"
+   ],
+   "title": [
+    "animal level 3"
+   ],
+   "poin": [
+    0
+   ],
+   "open": [
+    "level4"
+   ]
+  },
+  "level4": {
+   "voice": [
+    "sound/soal_animal/lvl41.MP3",
+    "sound/soal_animal/lvl42.MP3",
+    "sound/soal_animal/lvl43.MP3"
+   ],
+   "status": [
+    "lock"
+   ],
+   "tombol": [
+    "images/level/level4L.png"
+   ],
+   "soal": [
+    "images/soal-animal/dinosaurs.png",
+    "images/soal-animal/camel.png",
+    "images/soal-animal/deer.png"
+   ],
+   "pilgan1": [
+    "images/quis-pilgan-animal/bear.png",
+    "images/quis-pilgan-animal/dinosaurs.png",
+    "images/quis-pilgan-animal/dog.png"
+   ],
+   "pilgan2": [
+    "images/quis-pilgan-animal/rabbit.png",
+    "images/quis-pilgan-animal/bear.png",
+    "images/quis-pilgan-animal/camel.png"
+   ],
+   "pilgan3": [
+    "images/quis-pilgan-animal/deer.png",
+    "images/quis-pilgan-animal/cow.png",
+    "images/quis-pilgan-animal/buffalo.png"
+   ],
+   "jawaban": [
+    "images/quis-pilgan-animal/dinosaurs.png",
+    "images/quis-pilgan-animal/camel.png",
+    "images/quis-pilgan-animal/deer.png"
+   ],
+   "title": [
+    "animal level 4"
+   ],
+   "poin": [
+    0
+   ],
+   "open": [
+    "level5"
+   ]
+  },
+  "level5": {
+   "voice": [
+    "sound/soal_animal/lvl51.MP3",
+    "sound/soal_animal/lvl52.MP3",
+    "sound/soal_animal/lvl53.MP3"
+   ],
+   "status": [
+    "open"
+   ],
+   "tombol": [
+    "images/level/level5L.png"
+   ],
+   "soal": [
+    "images/soal-animal/horse.png",
+    "images/soal-animal/sheep.png",
+    "images/soal-animal/pig.png"
+   ],
+   "pilgan1": [
+    "images/quis-pilgan-animal/horse.png",
+    "images/quis-pilgan-animal/bear.png",
+    "images/quis-pilgan-animal/goose.png"
+   ],
+   "pilgan2": [
+    "images/quis-pilgan-animal/dog.png",
+    "images/quis-pilgan-animal/cow.png",
+    "images/quis-pilgan-animal/sheep.png"
+   ],
+   "pilgan3": [
+    "images/quis-pilgan-animal/pig.png",
+    "images/quis-pilgan-animal/bear.png",
+    "images/quis-pilgan-animal/polar.png"
+   ],
+   "jawaban": [
+    "images/quis-pilgan-animal/horse.png",
+    "images/quis-pilgan-animal/sheep.png",
+    "images/quis-pilgan-animal/pig.png"
+   ],
+   "title": [
+    "animal level 5"
+   ],
+   "poin": [
+    0
+   ],
+   "open": [
+    "level6"
+   ]
+  },
+  "level6": {
+   "voice": [
+    "sound/soal_animal/lvl61.MP3",
+    "sound/soal_animal/lvl62.MP3",
+    "sound/soal_animal/lvl63.MP3"
+   ],
+   "status": [
+    "lock"
+   ],
+   "tombol": [
+    "images/level/level6L.png"
+   ],
+   "soal": [
+    "images/soal-animal/bear.png",
+    "images/soal-animal/panda.png",
+    "images/soal-animal/monkey.png"
+   ],
+   "pilgan1": [
+    "images/quis-pilgan-animal/camel.png",
+    "images/quis-pilgan-animal/grapes.png",
+    "images/quis-pilgan-animal/bear.png"
+   ],
+   "pilgan2": [
+    "images/quis-pilgan-animal/sheep.png",
+    "images/quis-pilgan-animal/tiger.png",
+    "images/quis-pilgan-animal/panda.png"
+   ],
+   "pilgan3": [
+    "images/quis-pilgan-animal/hedgehog.png",
+    "images/quis-pilgan-animal/rabbit.png",
+    "images/quis-pilgan-animal/monkey.png"
+   ],
+   "jawaban": [
+    "images/quis-pilgan-animal/bear.png",
+    "images/quis-pilgan-animal/panda.png",
+    "images/quis-pilgan-animal/monkey.png"
+   ],
+   "title": [
+    "animal level 6"
+   ],
+   "poin": [
+    0
+   ],
+   "open": [
+    "level7"
+   ]
+  },
+  "level7": {
+   "voice": [
+    "sound/soal_animal/lvl71.MP3",
+    "sound/soal_animal/lvl72.MP3",
+    "sound/soal_animal/lvl73.MP3"
+   ],
+   "status": [
+    "lock"
+   ],
+   "tombol": [
+    "images/level/level7L.png"
+   ],
+   "soal": [
+    "images/soal-animal/hadgehog.png",
+    "images/soal-animal/rhinoceros.png",
+    "images/soal-animal/mouse.png"
+   ],
+   "pilgan1": [
+    "images/quis-pilgan-animal/snake.png",
+    "images/quis-pilgan-animal/hedgehog.png",
+    "images/quis-pilgan-animal/sheep.png"
+   ],
+   "pilgan2": [
+    "images/quis-pilgan-animal/hedgehog.png",
+    "images/quis-pilgan-animal/rhinoceros.png",
+    "images/quis-pilgan-animal/rabbit.png"
+   ],
+   "pilgan3": [
+    "images/quis-pilgan-animal/mouse.png",
+    "images/quis-pilgan-animal/cat.png",
+    "images/quis-pilgan-animal/bird.png"
+   ],
+   "jawaban": [
+    "images/quis-pilgan-animal/hedgehog.png",
+    "images/quis-pilgan-animal/rhinoceros.png",
+    "images/quis-pilgan-animal/mouse.png"
+   ],
+   "title": [
+    "animal level 7"
+   ],
+   "poin": [
+    0
+   ],
+   "open": [
+    "level8"
+   ]
+  },
+  "level8": {
+   "voice": [
+    "sound/soal_animal/lvl81.MP3",
+    "sound/soal_animal/lvl82.MP3",
+    "sound/soal_animal/lvl83.MP3"
+   ],
+   "status": [
+    "lock"
+   ],
+   "tombol": [
+    "images/level/level8L.png"
+   ],
+   "soal": [
+    "images/soal-animal/butterfly.png",
+    "images/soal-animal/pigeon.png",
+    "images/soal-animal/duck.png"
+   ],
+   "pilgan1": [
+    "images/quis-pilgan-animal/pigeon.png",
+    "images/quis-pilgan-animal/bird.png",
+    "images/quis-pilgan-animal/butterfly.png"
+   ],
+   "pilgan2": [
+    "images/quis-pilgan-animal/fish.png",
+    "images/quis-pilgan-animal/pigeon.png",
+    "images/quis-pilgan-animal/wolf.png"
+   ],
+   "pilgan3": [
+    "images/quis-pilgan-animal/giraffe.png",
+    "images/quis-pilgan-animal/elephan.png",
+    "images/quis-pilgan-animal/buffalo.png"
+   ],
+   "jawaban": [
+    "images/quis-pilgan-animal/duck.png",
+    "images/quis-pilgan-animal/chicken.png",
+    "images/quis-pilgan-animal/pigeon.png"
+   ],
+   "title": [
+    "animal level 8"
+   ],
+   "poin": [
+    0
+   ],
+   "open": [
+    "level9"
+   ]
+  },
+  "level9": {
+   "voice": [
+    "sound/soal_animal/lvl91.MP3",
+    "sound/soal_animal/lvl92.MP3",
+    "sound/soal_animal/lvl13.MP3"
+   ],
+   "status": [
+    "lock"
+   ],
+   "tombol": [
+    "images/level/level1L.png"
+   ],
+   "soal": [
+    "images/soal-animal/crocodile.png",
+    "images/soal-animal/chameleon.png",
+    "images/soal-animal/giraffe.png"
+   ],
+   "pilgan1": [
+    "images/quis-pilgan-animal/komodo dragon.png",
+    "images/quis-pilgan-animal/dinosaurs.png",
+    "images/quis-pilgan-animal/crocodile.png"
+   ],
+   "pilgan2": [
+    "images/quis-pilgan-animal/camel.png",
+    "images/quis-pilgan-animal/chameleon.png",
+    "images/quis-pilgan-animal/house lizard.png"
+   ],
+   "pilgan3": [
+    "images/quis-pilgan-animal/giraffe.png",
+    "images/quis-pilgan-animal/elephan.png",
+    "images/quis-pilgan-animal/buffalo.png"
+   ],
+   "jawaban": [
+    "images/quis-pilgan-animal/crocodile.png",
+    "images/quis-pilgan-animal/chameleon.png",
+    "images/quis-pilgan-animal/giraffe.png"
+   ],
+   "title": [
+    "animal level 9"
+   ],
+   "poin": [
+    0
+   ],
+   "open": [
+    "levelA"
+   ]
+  },
+  "levelA": {
+   "voice": [
+    "sound/soal_animal/lvl11.MP3",
+    "sound/soal_animal/lvl12.MP3",
+    "sound/soal_animal/lvl13.MP3"
+   ],
+   "status": [
+    "open"
+   ],
+   "tombol": [
+    "images/level/level1L.png"
+   ],
+   "soal": [
+    "images/soal-animal/cat.png",
+    "images/soal-animal/dog.png",
+    "images/soal-animal/giraffe.png"
+   ],
+   "pilgan1": [
+    "images/quis-pilgan-animal/cat.png",
+    "images/quis-pilgan-animal/fish.png",
+    "images/quis-pilgan-animal/dog.png"
+   ],
+   "pilgan2": [
+    "images/quis-pilgan-animal/snake.png",
+    "images/quis-pilgan-animal/wolf.png",
+    "images/quis-pilgan-animal/dog.png"
+   ],
+   "pilgan3": [
+    "images/quis-pilgan-animal/giraffe.png",
+    "images/quis-pilgan-animal/elephan.png",
+    "images/quis-pilgan-animal/buffalo.png"
+   ],
+   "jawaban": [
+    "images/quis-pilgan-animal/cat.png",
+    "images/quis-pilgan-animal/dog.png",
+    "images/quis-pilgan-animal/giraffe.png"
+   ],
+   "title": [
+    "animal level 1"
+   ],
+   "poin": [
+    0
+   ],
+   "open": [
+    "level2"
+   ]
+  }
+ },
+ "family": {
+  "level1": {
+   "tombol": [
+    "images/level/level2.png"
+   ],
+   "soal": [
+    "monkey"
+   ],
+   "pilgan": [
+    "images/quis-pilgan/gajah.png",
+    "images/quis-pilgan/burung.png",
+    "images/quis-pilgan/kambing.png",
+    "images/quis-pilgan/monyet.png"
+   ],
+   "jawaban": [
+    "images/quis-pilgan/monyet.png"
+   ]
+  }
+ }
+}
